@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me
 
 - ✅ Recently completed a project on **Vehicle Modification Detection** using **YOLOv8**, **autoencoders**, and **feature extraction** techniques.
-- 🌱 Currently learning **React Native**, **Fullstack Development**, and exploring the field of **Cybersecurity**.
+- 🌱 Currently learning **React js**, **Fullstack Development**, and exploring the field of **Cybersecurity**.
 - 💬 Ask me about **Python**, **JavaScript**, **Deep Learning**, and **feature-based anomaly detection**.
 - 📫 How to reach me: **nivooskv@gmail.com**
 - 📝 I regularly write notes & explanations for better understanding.
