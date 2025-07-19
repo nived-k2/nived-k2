@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">Hi 👋, I'm Nived</h1>
+<h1 align="center">Hi 👋, I'm Nived K V</h1>
 <h3 align="center">Engineer passionate about Fullstack Development and actively exploring the field of Cybersecurity.</h3>
 
 <p align="center">
